@@ -155,4 +155,4 @@ limitations under the License.
 [support-payPal]: https://www.paypal.me/psla/
 [contributing]: .github/CONTRIBUTING.md
 [whatsapp]: https://whatsapp.com
-[puppeteer]: https://pptr.dev/
+[puppeteer]: https://pptr.dev/h
